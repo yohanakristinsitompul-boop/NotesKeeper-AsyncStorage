@@ -14,7 +14,7 @@ Aplikasi NotesKeeper dibuat menggunakan React Native Expo dan AsyncStorage.
 - ✅ FlatList
 
 ### Level 2
-- ✅ Update/Edit Catatan
+- ✅ Search/Filter
 - ✅ Konfirmasi Hapus
 
 ### Level 3 (Bonus)
